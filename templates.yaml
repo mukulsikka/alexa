@@ -1,0 +1,13 @@
+welcome : Hey, Welcome to . If you want to know the country to which river form belongs, simply ask about that river.
+
+reprompt: I did not quite get that. Please state again?
+
+cross : If you do not have any more queries, say stop, to stop the session.
+
+help : If you wish to know the country to which a river belongs, simply ask about that river For example, 'which country Nile belongs to'. If you want me to stop say stop.
+
+Yess: the river belongs to {{ object }}. If you do not have any more query say stop to end the session.
+
+bye : Goodbye.
+
+reprom : I did not quite get that. Either it is not in my database or I was unable to understand. Please try again. If you do not have any more query say stop to end the session.
