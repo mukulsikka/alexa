@@ -25,7 +25,7 @@ def help():
 	cross = render_template('cross')
 	return question(msg).reprompt(cross)
 	
-@ask.intent("AskIntent")
+@ask.intent("guessriver")
 def code(object):
 
 	dance = json.load(open('dances.json'))
