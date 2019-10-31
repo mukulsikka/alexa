@@ -16,4 +16,4 @@ pyOpenSSL==17.0.0
 python-dateutil==2.7.3
 PyYAML==3.12
 six==1.11.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
